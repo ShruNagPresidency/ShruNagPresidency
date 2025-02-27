@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there👋 My name is Shruthi and I'm from Presidency University Bengluru
+
+- 🔭 I’m currently working on recommendation systems for my PhD
 
 <!--
 **ShruNagPresidency/ShruNagPresidency** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
